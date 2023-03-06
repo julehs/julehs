@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Julehs !</h1>
-<h3 align="center">Student from University of Naples Federico II, bug maker</h3>
-
+<div style="width: 100%;">
+  <a href="https://github.com/Indisparte/Indisparte/blob/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julehs&label=Profile%20views&color=0e75b6&style=flat" alt="julehs" /> </p>
 
 - 🌱 I’m currently learning **Kotlin, Java and JavaScript**
